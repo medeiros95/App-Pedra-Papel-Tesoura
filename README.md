@@ -2,7 +2,7 @@
 
 App para quem é viciado em The Big Bang Theory, o clássico jogo Pedra, Papel, Tesoura, Lagarto e Spock.
 
-Esse app eu criei para praticar um pouco o conhecimento em desenvolvimento mobile.
+Esse app foi criado para praticar o conhecimento em desenvolvimento mobile.
 
 O Jogo consiste em o usuário selecionar uma opção clicando na imagem que preferir e o próprio app vai agir como adversário gerando assim uma escolha aleatória. 
 Dessa forma vai surgir uma mensagem informando se você venceu, empatou ou o App ganhou. 
